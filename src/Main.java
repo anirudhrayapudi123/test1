@@ -1,6 +1,6 @@
 import java.util.*;
-//bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbo
-class TreeNode{
+//aaaaaaaaaaaaaaaaa
+xclass TreeNode{
     int data;
     TreeNode left;
     TreeNode right;
@@ -13,7 +13,7 @@ class TreeNode{
 class BinaryTree{
     static TreeNode root=null;
     public static void levelorder(TreeNode root){
-        Queue<TreeNode> q=new LinkedList<>();
+        Queue<TreeNode> quu=new LinkedList<>();
         List<List<Integer>> big_l=new LinkedList<>();
         List<Integer> small_l=new LinkedList<>();
         q.add(root);
