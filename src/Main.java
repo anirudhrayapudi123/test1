@@ -13,7 +13,7 @@ class TreeNode{
 class BinaryTree{
     static TreeNode root=null;
     public static void levelorder(TreeNode root){
-        Queue<TreeNode> qu=new LinkedList<>();
+        Queue<TreeNode> quu=new LinkedList<>();
         List<List<Integer>> big_l=new LinkedList<>();
         List<Integer> small_l=new LinkedList<>();
         q.add(root);
