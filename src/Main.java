@@ -1,6 +1,6 @@
 import java.util.*;
 //aaaaaaaaaaaaaaaaa
-class TreeNode{
+xclass TreeNode{
     int data;
     TreeNode left;
     TreeNode right;

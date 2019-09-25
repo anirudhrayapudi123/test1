@@ -1,5 +1,5 @@
 class BinarySearchTreeNode{
-    int val2;
+    int val1;
     BinarySearchTreeNode left;
     BinarySearchTreeNode right;
     BinarySearchTreeNode(int val){
